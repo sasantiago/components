@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/riwip5-016/components/componentmvc/componentmvc.csproj",
+      "projectUniqueName": "/home/riwip5-016/Desktop/componentmvc/componentmvc.csproj",
       "projectName": "componentmvc",
-      "projectPath": "/home/riwip5-016/components/componentmvc/componentmvc.csproj",
+      "projectPath": "/home/riwip5-016/Desktop/componentmvc/componentmvc.csproj",
       "packagesPath": "/home/riwip5-016/.nuget/packages/",
-      "outputPath": "/home/riwip5-016/components/componentmvc/obj/",
+      "outputPath": "/home/riwip5-016/Desktop/componentmvc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/riwip5-016/.nuget/NuGet/NuGet.Config"

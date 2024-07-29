@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sZic9xg+1gVUSlPKJSjryQLKFaqDdAPpvzCJ6UvuB50=",
+  "Hash": "sxbsyNLXfNhvr4VTcCtMCsxwHRaJJqlQ41PAZnc+mQw=",
   "Source": "componentmvc",
   "BasePath": "_content/componentmvc",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "componentmvc/wwwroot",
       "Source": "componentmvc",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/obj/Debug/net8.0/scopedcss/bundle/componentmvc.styles.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/obj/Debug/net8.0/scopedcss/bundle/componentmvc.styles.css",
       "SourceId": "componentmvc",
       "SourceType": "Computed",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "componentmvc.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/riwip5-016/Desktop/componentmvc/obj/Debug/net8.0/scopedcss/bundle/componentmvc.styles.css"
+      "OriginalItemSpec": "/home/santiagolis/Imágenes/components/components/obj/Debug/net8.0/scopedcss/bundle/componentmvc.styles.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/obj/Debug/net8.0/scopedcss/projectbundle/componentmvc.bundle.scp.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/obj/Debug/net8.0/scopedcss/projectbundle/componentmvc.bundle.scp.css",
       "SourceId": "componentmvc",
       "SourceType": "Computed",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "componentmvc.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/riwip5-016/Desktop/componentmvc/obj/Debug/net8.0/scopedcss/projectbundle/componentmvc.bundle.scp.css"
+      "OriginalItemSpec": "/home/santiagolis/Imágenes/components/components/obj/Debug/net8.0/scopedcss/projectbundle/componentmvc.bundle.scp.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/css/app.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/css/app.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "css/app.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/css/app.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/css/bootstrap.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/css/bootstrap.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/css/icons.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/css/icons.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "css/icons.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/css/icons.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/css/site.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/css/site.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/favicon.ico",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/favicon.ico",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/fonts/cerebrisans-medium.woff",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/fonts/cerebrisans-medium.woff",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "fonts/cerebrisans-medium.woff",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/fonts/cerebrisans-medium.woff"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/fonts/feather.woff",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/fonts/feather.woff",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "fonts/feather.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/fonts/feather.woff"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/fonts/materialdesignicons-webfont.woff2",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/fonts/materialdesignicons-webfont.woff2",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/fonts/materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/fonts/remixicon.woff2",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/fonts/remixicon.woff2",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "fonts/remixicon.woff2",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/fonts/remixicon.woff2"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/fonts/XRXV3I6Li01BKofINeaB (1).woff2",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/fonts/XRXV3I6Li01BKofINeaB (1).woff2",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "fonts/XRXV3I6Li01BKofINeaB (1).woff2",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/fonts/XRXV3I6Li01BKofINeaB (1).woff2"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/js/app.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/js/app.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "js/app.min.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/js/app.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/js/head.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/js/head.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "js/head.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/js/head.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/js/site.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/js/site.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/js/vendor.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/js/vendor.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "js/vendor.min.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/js/vendor.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/riwip5-016/Desktop/componentmvc/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/santiagolis/Imágenes/components/components/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "componentmvc",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-016/Desktop/componentmvc/wwwroot/",
+      "ContentRoot": "/home/santiagolis/Imágenes/components/components/wwwroot/",
       "BasePath": "_content/componentmvc",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
